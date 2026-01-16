@@ -18,3 +18,4 @@ EXPOSE 8080
 
 # Commande pour démarrer l'application
 CMD ["node", "server.js"]
+ 
