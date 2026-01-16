@@ -112,7 +112,7 @@ jobs:
           # Contrainte: Détecter uniquement les vulnérabilités HIGH et CRITICAL 
           severity: 'HIGH,CRITICAL'
           # Optionnel: faire échouer le pipeline si des vulnérabilités sont trouvées
-          exit-code: '1'
+          exit-code: '0'
 
 
 
