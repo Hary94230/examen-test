@@ -17,6 +17,7 @@ Terraform : Provisionnement d'une instance EC2 sur AWS.
 OS : Ubuntu.
 Type : t2.micro ou t3.micro.
 Sécurité : Security Group autorisant le SSH (22) et le port applicatif (8080).
+
 2. Déploiement et Accès 
 Une fois l'infrastructure prête, l'application est déployée manuellement (ou via script) sur l'instance EC2 :
 Connexion SSH à l'instance.
